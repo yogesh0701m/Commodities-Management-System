@@ -7,7 +7,7 @@ export const mockProducts = [
     quantity: 150,
     supplier: 'Global Coffee Co.',
     status: 'In Stock',
-    lastUpdated: '2024-01-15',
+    lastUpdated: '2025-01-15',
     image: 'https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg?auto=compress&cs=tinysrgb&w=300',
     description: 'High-quality arabica coffee beans from South America'
   },
@@ -19,7 +19,7 @@ export const mockProducts = [
     quantity: 200,
     supplier: 'Farm Fresh Ltd.',
     status: 'In Stock',
-    lastUpdated: '2024-01-14',
+    lastUpdated: '2025-01-14',
     image: 'https://images.pexels.com/photos/1580321/pexels-photo-1580321.jpeg?auto=compress&cs=tinysrgb&w=300',
     description: 'Certified organic wheat flour for baking'
   },
@@ -31,7 +31,7 @@ export const mockProducts = [
     quantity: 75,
     supplier: 'Mediterranean Foods',
     status: 'Low Stock',
-    lastUpdated: '2024-01-13',
+    lastUpdated: '2025-01-13',
     image: 'https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking-olive.jpg?auto=compress&cs=tinysrgb&w=300',
     description: 'Cold-pressed extra virgin olive oil from Italy'
   },
@@ -43,7 +43,7 @@ export const mockProducts = [
     quantity: 300,
     supplier: 'Asian Imports Inc.',
     status: 'In Stock',
-    lastUpdated: '2024-01-12',
+    lastUpdated: '2025-01-12',
     image: 'https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg?auto=compress&cs=tinysrgb&w=300',
     description: 'Premium aged basmati rice from India'
   },
@@ -55,7 +55,7 @@ export const mockProducts = [
     quantity: 50,
     supplier: 'Cocoa Masters',
     status: 'Low Stock',
-    lastUpdated: '2024-01-11',
+    lastUpdated: '2025-01-11',
     image: 'https://images.pexels.com/photos/65882/chocolate-dark-coffee-confiserie-65882.jpeg?auto=compress&cs=tinysrgb&w=300',
     description: '70% dark chocolate bars made from Belgian cocoa'
   },
@@ -67,7 +67,7 @@ export const mockProducts = [
     quantity: 120,
     supplier: 'Mountain Minerals',
     status: 'In Stock',
-    lastUpdated: '2024-01-10',
+    lastUpdated: '2025-01-10',
     image: 'https://images.pexels.com/photos/1340116/pexels-photo-1340116.jpeg?auto=compress&cs=tinysrgb&w=300',
     description: 'Pure Himalayan pink rock salt for cooking'
   }
